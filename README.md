@@ -146,7 +146,7 @@ Discounting and costs may reduce margins.
 
 #  Project Files
 
-- `Superstore_Analysis.ipynb` → Jupyter Notebook
+- `Superstore_Dataset.ipynb` → Jupyter Notebook
 - `README.md` → Project Documentation
 - `Sample - Superstore.csv` → Dataset
 
